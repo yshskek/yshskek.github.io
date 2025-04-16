@@ -7,9 +7,13 @@
 ## 🔧 기술 스택
 
 **Front End**: React, HTML5/CSS 
+
 **Back End**: Spring, Java, REST API 서버 구축, 결제 시스템 구현 
+
 **시스템(인프라) 엔지니어링**: Linux, C, Raspberry Pi, Arduino, TCP/IP 소켓프로그래밍 
+
 **AR/VR**: Unity, C#  
+
 **DB**: MySQL, Oracle, MongoDB 
 
 ---
