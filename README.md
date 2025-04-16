@@ -18,19 +18,6 @@
 
 ---
 
-## 📁 포트폴리오
-
-### 🎓 졸업 작품 URL  
-🔗 [https://github.com/syjung64](https://github.com/syjung64)
-
-### 💬 실시간 채팅 프로젝트 URL  
-🔗 [https://github.com/syjung64](https://github.com/syjung64)
-
-### 📊 부동산 실거래가 분석 프로젝트 (Python/Pandas)  
-🔗 [https://github.com/syjung64](https://github.com/syjung64)
-
----
-
 ## 동아리
 
 - **전공동아리 CAN 활동** - 컴퓨터소프트웨어공학과 작품개발 동아리 (2024.12 ~ 2025.12)  
